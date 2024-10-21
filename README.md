@@ -1,4 +1,5 @@
 # OpenSourceGeospatialSlovenija2023
+Urednika: Tomaž Šturm in Alen Mangafić
 posnetek dogodka:
 https://youtu.be/h4cmV4GT-60
 
